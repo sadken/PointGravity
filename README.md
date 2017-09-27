@@ -1,7 +1,7 @@
 # PointGravity
 Simple gravity simulation in FreeBasic
 
-Written in Freebasic the code simulates basic gravity between upto 100000 particles and a central object. 
+Written in Freebasic (Available here: https://www.freebasic.net/ ) the code simulates basic gravity between upto 100000 particles and a central object. 
 
 UP/DOWN Arrows adjust the speed of the simulation. 
 LEFT/RIGHT Adjust the initial speed of the particle (direction angle is random)
